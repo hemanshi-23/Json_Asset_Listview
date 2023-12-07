@@ -1,0 +1,69 @@
+{
+  "json": [
+    {
+      "id": "1",
+      "latitude": 22.309425,
+      "longitude": 72.136230
+    },
+    {
+      "id": "2",
+      "latitude": 32.084206,
+      "longitude": 77.571167
+    },
+    {
+      "id": "3",
+      "latitude": 29.065773,
+      "longitude": 76.040497
+    },
+    {
+      "id": "4",
+      "latitude": 19.601194,
+      "longitude": 75.552979
+    },
+    {
+      "id": "5",
+      "latitude": 10.850516,
+      "longitude": 76.271080
+    },
+    {
+      "id": "6",
+      "latitude": 22.978624,
+      "longitude": 87.747803
+    },
+    {
+      "id": "7",
+      "latitude":26.244156,
+      "longitude":92.537842
+
+    },
+    {
+      "id": "8",
+      "latitude": 11.127123	,
+      "longitude": 78.656891
+
+    },
+    {
+      "id": "9",
+      "latitude": 17.123184,
+      "longitude": 79.208824
+    },
+    {
+      "id": "10",
+      "latitude": 27.391277,
+      "longitude": 73.432617
+
+    },
+    {
+      "id": "11",
+      "latitude": 20.940920,
+      "longitude": 84.803467
+    },
+    {
+      "id": "12",
+      "latitude": 28.679079,
+      "longitude": 77.069710
+    }
+  ]
+}
+
+
